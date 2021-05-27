@@ -416,7 +416,7 @@ Configuration files:
 $config_files
 
 Report bugs to <thanachote.v@ku.th>.
-Apertium Thai-Lao home page: <http://wiki.apertium.org/wiki/Apertium-tha-lao>."
+Apertium Thai-Lao home page: <https://wiki.apertium.org/wiki/Apertium-tha-lao>."
 
 ac_cs_config="'--with-lang1=../apertium-tha' '--with-lang2=../apertium-lao' 'PKG_CONFIG_PATH=/opt/ros/indigo/lib/x86_64-linux-gnu/pkgconfig:/home/kumamon/at_home/devel/lib/pkgconfig:/opt/ros/indigo/lib/pkgconfig:/usr/local/lib/pkgconfig:/usr/local/share/pkgconfig:/usr/local/lib/pkgconfig'"
 ac_cs_version="\
@@ -664,7 +664,7 @@ S["ECHO_T"]=""
 S["ECHO_N"]="-n"
 S["ECHO_C"]=""
 S["DEFS"]="-DPACKAGE_NAME=\\\"Apertium\\ Thai-Lao\\\" -DPACKAGE_TARNAME=\\\"apertium-tha-lao\\\" -DPACKAGE_VERSION=\\\"0.2.0\\\" -DPACKAGE_STRING=\\\"Apertium\\ Thai-Lao\\ 0.2."\
-"0\\\" -DPACKAGE_BUGREPORT=\\\"thanachote.v@ku.th\\\" -DPACKAGE_URL=\\\"http://wiki.apertium.org/wiki/Apertium-tha-lao\\\" -DPACKAGE=\\\"apertium-tha-lao\\\" -DVER"\
+"0\\\" -DPACKAGE_BUGREPORT=\\\"thanachote.v@ku.th\\\" -DPACKAGE_URL=\\\"https://wiki.apertium.org/wiki/Apertium-tha-lao\\\" -DPACKAGE=\\\"apertium-tha-lao\\\" -DVER"\
 "SION=\\\"0.2.0\\\""
 S["mandir"]="${datarootdir}/man"
 S["localedir"]="${datarootdir}/locale"
@@ -688,7 +688,7 @@ S["bindir"]="${exec_prefix}/bin"
 S["program_transform_name"]="s,x,x,"
 S["prefix"]="/usr/local"
 S["exec_prefix"]="${prefix}"
-S["PACKAGE_URL"]="http://wiki.apertium.org/wiki/Apertium-tha-lao"
+S["PACKAGE_URL"]="https://wiki.apertium.org/wiki/Apertium-tha-lao"
 S["PACKAGE_BUGREPORT"]="thanachote.v@ku.th"
 S["PACKAGE_STRING"]="Apertium Thai-Lao 0.2.0"
 S["PACKAGE_VERSION"]="0.2.0"

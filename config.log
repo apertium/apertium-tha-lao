@@ -191,7 +191,7 @@ AWK='gawk'
 CGCOMP='/usr/bin/cg-comp'
 CGPROC='/usr/bin/cg-proc'
 CYGPATH_W='echo'
-DEFS='-DPACKAGE_NAME=\"Apertium\ Thai-Lao\" -DPACKAGE_TARNAME=\"apertium-tha-lao\" -DPACKAGE_VERSION=\"0.2.0\" -DPACKAGE_STRING=\"Apertium\ Thai-Lao\ 0.2.0\" -DPACKAGE_BUGREPORT=\"thanachote.v@ku.th\" -DPACKAGE_URL=\"http://wiki.apertium.org/wiki/Apertium-tha-lao\" -DPACKAGE=\"apertium-tha-lao\" -DVERSION=\"0.2.0\"'
+DEFS='-DPACKAGE_NAME=\"Apertium\ Thai-Lao\" -DPACKAGE_TARNAME=\"apertium-tha-lao\" -DPACKAGE_VERSION=\"0.2.0\" -DPACKAGE_STRING=\"Apertium\ Thai-Lao\ 0.2.0\" -DPACKAGE_BUGREPORT=\"thanachote.v@ku.th\" -DPACKAGE_URL=\"https://wiki.apertium.org/wiki/Apertium-tha-lao\" -DPACKAGE=\"apertium-tha-lao\" -DVERSION=\"0.2.0\"'
 ECHO_C=''
 ECHO_N='-n'
 ECHO_T=''
@@ -212,7 +212,7 @@ PACKAGE_BUGREPORT='thanachote.v@ku.th'
 PACKAGE_NAME='Apertium Thai-Lao'
 PACKAGE_STRING='Apertium Thai-Lao 0.2.0'
 PACKAGE_TARNAME='apertium-tha-lao'
-PACKAGE_URL='http://wiki.apertium.org/wiki/Apertium-tha-lao'
+PACKAGE_URL='https://wiki.apertium.org/wiki/Apertium-tha-lao'
 PACKAGE_VERSION='0.2.0'
 PATH_SEPARATOR=':'
 PKG_CONFIG='/usr/bin/pkg-config'
@@ -271,7 +271,7 @@ ap_include='./ap_include.am'
 #define PACKAGE_VERSION "0.2.0"
 #define PACKAGE_STRING "Apertium Thai-Lao 0.2.0"
 #define PACKAGE_BUGREPORT "thanachote.v@ku.th"
-#define PACKAGE_URL "http://wiki.apertium.org/wiki/Apertium-tha-lao"
+#define PACKAGE_URL "https://wiki.apertium.org/wiki/Apertium-tha-lao"
 #define PACKAGE "apertium-tha-lao"
 #define VERSION "0.2.0"
 
